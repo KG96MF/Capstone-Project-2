@@ -1,0 +1,44 @@
+.body{
+    background-color: #232D3F;
+    position: relative;
+}
+.below{
+    background-color: #BCA37F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+}
+.bodymenu{
+    background-color: #191717;
+    position: relative;
+}
+
+#menu{
+    background-color: #F5FCCD;
+    font-size: 4rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: #EAD7BB;
+    font-size: 2rem;
+}
+.options{
+    color: white;
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color: #FFF2D8;
+}
+hr{
+    background-color: #219C90;
+    height: 10px;
+    border-radius: 15%;
+}
+
+*{text-align: center;}
+
